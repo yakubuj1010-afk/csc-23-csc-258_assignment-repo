@@ -1,8 +1,8 @@
 # Student Registration System
 
 ## Student Info
-- *Name:* Obiri Margaret Akpana
-- *Matric Number:* 23\CSC\177
+- *Name:* Yakubu Joseph Aboh
+- *Matric Number:* 23\CSC\258
 - *Course Code:* CSC 282 
 
 ## Assignment Title
@@ -62,4 +62,5 @@ This project is a simple PHP and MySQL web application for registering students.
 ![Student List](images/view.png)
 
 ### Delete Confirmation
+
 ![Delete Confirmation](images/delete.png)
